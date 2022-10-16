@@ -1,0 +1,35 @@
+<booksList>
+    <book id="1">
+        <title>R for Everyone</title>
+        <subtitle>Advanced Analytics and Graphics</subtitle>
+        <author>Jared P Lander</author>
+        <author2> </author2>
+        <publisher>Addison Wesley</publisher>
+        <copyright>2017</copyright>
+        <edition>2</edition>
+        <ibsn>0 13 454692 X</ibsn>
+
+    </book>
+    <book id="2">
+        <title>Data Science for Business</title>
+        <subtitle>What you need to know about data mining and data-analytic thinking</subtitle>
+        <author>Foster Provost</author>
+        <author2>Tom Fawcett</author2>
+        <publisher>O'Reilly</publisher>
+        <copyright>2013</copyright>
+        <edition>1</edition>
+        <ibsn>978 1 449 36132 7</ibsn>
+
+    </book>
+    <book id="3">
+        <title>Doing Math with Python</title>
+        <subtitle>use programming to explore algebra, statistics, calculus, and more!</subtitle>
+        <author>Amit Saha</author>
+        <author2> </author2>
+        <publisher>No Starch Press</publisher>
+        <copyright>2015</copyright>
+        <edition>1</edition>
+        <ibsn>978 1 59327 640 9</ibsn>
+
+    </book>
+</booksList>

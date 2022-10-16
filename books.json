@@ -1,0 +1,33 @@
+{
+    "id":1,
+    "title":"R for Everyone",
+    "subtitle":"Advanced Analytics and Graphics",
+    "author_1":"Jared P Lander",
+    "author_2":"",
+    "publisher":"Addison Wesley",
+    "copyright":"2017",
+    "edition":"2",
+    "ibsn":"0 13 454692 X"
+}
+{
+    "id":2,
+    "title":"Data Science for Business",
+    "subtitle":"What you need to know about data mining and data-analytic thinking",
+    "author_1":"Foster Provost",
+    "author_2":"Tom Fawcett",
+    "publisher":"O'Reilly",
+    "copyright":"2013",
+    "edition":"1",
+    "ibsn":"978 1 449 36132 7"
+}
+{
+    "id":3,
+    "title":"Doing Math with Python",
+    "subtitle":"use programming to explore algebra, statistics, calculus, and more!",
+    "author_1":"Amit Saha",
+    "author_2":"",
+    "publisher":"No Starch Press",
+    "copyright":"2015",
+    "edition":"1",
+    "ibsn":"978 1 59327 640 9"
+}
